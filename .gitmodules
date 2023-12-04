@@ -1,0 +1,3 @@
+[submodule "6080-exam/exam"]
+	path = 6080-exam/exam
+	url = https://nw-syd-gitlab.cseunsw.tech/COMP6080/23T1/students/z5361001/exam-sample.git
